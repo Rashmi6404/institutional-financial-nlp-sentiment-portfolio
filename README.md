@@ -1,6 +1,8 @@
 # 🏦 Institutional Financial NLP Sentiment Benchmark
 
-This repository contains the original notebook and a Streamlit deployment version of the same financial-news sentiment pipeline.
+🚀 **[Live Demo – Streamlit App] ((https://institutional-financial-nlp-sentiment-portfolio-2n2uh6xbgpvvgg.streamlit.app/))**
+
+Financial news sentiment analysis and equity benchmarking using FinBERT, PyTorch, and Streamlit.
 
 ## 🚀 Streamlit App
 
